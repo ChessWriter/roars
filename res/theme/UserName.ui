@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="UserName" cloudDestinationProperty="UserName" layout="BoxLayout" boxLayoutAxis="Y" title="Welcome!" >
+  <component type="TextField" name="TextField" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="" hint="Write your name here" >
+  </component>
+  <component type="Button" name="Button" cloudDestinationProperty="Button" text="OK" >
+  </component>
+</component>
